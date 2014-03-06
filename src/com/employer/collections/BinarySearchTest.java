@@ -1,7 +1,11 @@
 package com.employer.collections;
 
 import java.util.Arrays;
-
+/**
+ * This Example from SCJP exam, 
+ * That show you the binary search technique,
+ * when search for Non-exist item(violet) the result will be....(check).
+ */
 public class BinarySearchTest {
 
 	/**
