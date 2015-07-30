@@ -1,4 +1,4 @@
 Interview_Questions
 ===================
 
-Share some interview question knowledge 
+Share some SCJP questions. 
