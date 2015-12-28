@@ -15,9 +15,8 @@ public class TryCatchReturnValue {
 			x= 12;
 			return x;
 		} finally {
-			// If x=0 return will be ???
-			x=0;
-			return x;
+			// If x=0 return will be wihtout return ???
+			//x=0; return x; returns ??
 		}
 	}
 }
